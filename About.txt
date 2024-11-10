@@ -1,0 +1,5 @@
+Nama : Nabil Rizki Wardana
+NIM  : L0124066
+
+Website ini adalah kerangka website untuk membaca novel, baik itu novel terjemahan maupun novel lain.
+saya terinspirasi dari web berjudul archive novel.
